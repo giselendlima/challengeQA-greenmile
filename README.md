@@ -16,7 +16,7 @@ componente web, e consiga validar se o tamanho em escala foi alterado para 225 x
 <strong>3.</strong> Deve ser feito o download em formato .zip ou clonar este projeto usando o terminal com o comando:
 </p>
 
-` git clone https://github.com/giselendlima/greenmile-challenge-qa.git `
+` git clone https://github.com/giselendlima/challengeQA-greenmile.git `
  
 <p align="justify"><strong>4.</strong> Deve ser feita a instalação do framework de testes: o cypress
 <strong>4.1.</strong> Dentro da pasta raiz do projeto pelo cmd/terminal da maquina você pode executar o comando <strong>npm install cypress</strong>, mas se você quer outras opções de instalação, sugiro que consulte a documentação: <a href="https://www.cypress.io/"> Link </a> 
