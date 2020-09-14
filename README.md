@@ -19,8 +19,7 @@ componente web, e consiga validar se o tamanho em escala foi alterado para 225 x
 ` git clone https://github.com/giselendlima/greenmile-challenge-qa.git `
  
 <p align="justify"><strong>4.</strong> Deve ser feita a instalação do framework de testes: o cypress
-
-  <strong>4.1.</strong> Dentro da pasta raiz do projeto pelo cmd/terminal da maquina você pode executar o comando "npm install cypress", mas se você quer outras opções de instalação, sugiro que consulte a documentação: <a href="https://www.cypress.io/"> Link </a> 
+<strong>4.1.</strong> Dentro da pasta raiz do projeto pelo cmd/terminal da maquina você pode executar o comando <strong>npm install cypress</strong>, mas se você quer outras opções de instalação, sugiro que consulte a documentação: <a href="https://www.cypress.io/"> Link </a> 
 
 <strong>5.</strong> Deve ter instalado o Visual Studio Code ou outra IDE de sua preferência.
 
@@ -28,7 +27,7 @@ componente web, e consiga validar se o tamanho em escala foi alterado para 225 x
 
 <h2> Após configuração concluída do ambiente, vamos iniciar o cypress </h2>
 <p align="justify"> <strong>1. </strong> Na pasta raiz, execute o comando <strong>npm run cypress:open</strong>, se você estiver usando o VSCode, pode executar no terminal da própria IDE. 
-Caso esteja usando o terminal/cmd, certifique-se que está na pasta do projeto e execute o comando.
+Caso esteja usando o terminal/cmd, certifique-se que está na pasta do projeto e execute o comando. </br>
 Lembre-se do comando <strong>npm run cypress:open</strong> </br>
 <strong> 2. </strong> Com o cypress iniciado, clique na pasta <strong>desafioQA</strong>, posteriormente, clique na classe <strong> desafioQA.spec.js </strong>; 
 E assim, os testes irão rodar!

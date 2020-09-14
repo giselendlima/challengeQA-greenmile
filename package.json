@@ -1,0 +1,22 @@
+{
+  "name": "greenmile-challenge-qa",
+  "version": "1.0.0",
+  "description": "GreenMile's challenge for QA.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giselendlima/greenmile-challenge-qa.git"
+  },
+  "author": "Gisele Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giselendlima/greenmile-project/issues"
+  },
+  "homepage": "https://github.com/giselendlima/greenmile-project#readme",
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  }
+}
